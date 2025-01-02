@@ -4,7 +4,7 @@ FNK00xx
 
 .. toctree::
    :maxdepth: 1
-   :caption: FNK00xx
+   :caption: FNK0059
    :glob:
 
-   fnk00xx/fnk00xx.rst
+   fnk0059/codes/tutorial/1_LED_Blink.rst
