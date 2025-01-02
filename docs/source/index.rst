@@ -1,10 +1,10 @@
 ######################################################
-FNK00xx
+Freenove Projects Kit
 ######################################################
 
 .. toctree::
    :maxdepth: 1
-   :caption: FNK0059
-   :glob:
+   :caption: language
 
-   fnk0059/codes/tutorial/1_LED_Blink.rst
+   fnk0059/codes/C-lang.rst
+   fnk0059/codes/Processing.rst

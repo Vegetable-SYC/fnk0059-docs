@@ -12,8 +12,8 @@ import sys
 
 sys.path.insert(0, pathlib.Path(__file__).parents[2].resolve().as_posix())
 
-os.system("rm -r freenove_Kit")
-os.system("git clone --depth 1 https://github.com/Freenove/Freenove_Projects_Kit freenove_Kit")
+# os.system("rm -r freenove_Kit")
+# os.system("git clone --depth 1 https://github.com/Freenove/Freenove_Projects_Kit freenove_Kit")
 
 
 def prepend_to_file(file_path, content):
@@ -68,7 +68,7 @@ html_theme = "sphinx_rtd_theme"
 
 html_static_path = ["_static"]
 
-html_logo = "fnk0043/codes/_static/imgs/freenove-logo.png"
+html_logo = "fnk0059/codes/_static/imgs/freenove-logo.png"
 html_theme_options = {
     "collapse_navigation": False,
     "logo_only": True,
