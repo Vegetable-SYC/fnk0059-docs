@@ -97,7 +97,7 @@ Conversion between hexadecimal and decimal system is similar to the conversion b
 
 When converting a hexadecimal number to decimal number, first, multiply the nth number of it by n power of 16, and then sum up all multiplicative results. Take 0x12 as an example:
 
-    1 *16^1+2*16^0=18
+    1*16^1+2*16^0=18
 
 When a decimal number is converted to hexadecimal number, the decimal number is divided by 16, so we will get quotient and remainder, and then the quotient obtained will be continuously divided by 16 until quotient is zero. Arrange all remainders from right to left in a line and wecomplete the conversion. For example:
 
