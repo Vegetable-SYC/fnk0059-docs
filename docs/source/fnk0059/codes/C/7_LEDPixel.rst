@@ -28,7 +28,7 @@ Component List
 
 .. |Chapter06_00| image:: ../_static/imgs/6_RGB_LED/Chapter06_00.png
 .. |Chapter06_01| image:: ../_static/imgs/6_RGB_LED/Chapter06_01.png
-.. |Chapter07_00| image:: ../_static/imgs/6_RGB_LED/Chapter07_00.png
+.. |Chapter07_00| image:: ../_static/imgs/7_LEDPixel/Chapter07_00.png
 .. |Chapter06_03| image:: ../_static/imgs/6_RGB_LED/Chapter06_03.png
 .. |Chapter06_04| image:: ../_static/imgs/6_RGB_LED/Chapter06_04.png
 
