@@ -19,8 +19,6 @@ Processing language
    :maxdepth: 1
    :caption: Projects
    
-   Processing/Note.rst
-   Processing/Preface.rst
    Processing/1_Voltmeter.rst
    Processing/2_Oscilloscope.rst
    Processing/3_Control_2D_and_3D_Figures.rst
